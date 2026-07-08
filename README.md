@@ -47,9 +47,7 @@ ipc-linux-lab/
 │   └── ipc_lab.py
 ├── tests/
 │   └── test_labs.py
-└── docs/
-    ├── source-notes.md
-    └── recursive-planning-prompt.md
+
 ```
 
 ## 빠른 시작
